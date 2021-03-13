@@ -21,9 +21,9 @@ public class Main {
         myList1.add(8);
         myList1.add(3);
         myList1.add(7);
-        myList1.add(2, 18);
-        myList1.add(3, 6);
-        myList1.add(1, 4);
+        myList1.add(1, 18);
+        myList1.add(2, 6);
+        myList1.add(3, 4);
         myList1.add(3);
         myList1.add(4);
 
